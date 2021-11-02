@@ -1,0 +1,26 @@
+{
+  "manifest_version": 2,
+  "name": "Color Picker-颜色选择器-屏幕颜色吸取",
+  "description": "一个屏幕颜色选择工具，在浏览器外也能选择。A screen color selection tool that can be selected outside the browser.",
+  "version": "1.0",
+  "browser_action": {
+    "default_icon": "icon.png"
+  },
+  "permissions": [
+    "contextMenus"
+  ],
+  "content_scripts": [{
+    "matches":    ["http://*/*","https://*/*"],
+    "js":         ["js/content.js"],
+    "all_frames": true
+ }],
+  "icons": 
+  { 
+    "16": "images/icon.png",             
+    "48": "images/icon.png",            
+    "128": "images/icon.png" 
+  },
+  "background":{
+    "scripts": ["js/background.js"]
+  }
+}

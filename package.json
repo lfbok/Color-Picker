@@ -1,0 +1,27 @@
+{
+  "name": "Color Picker",
+  "version": "1.0.0",
+  "description": "一个屏幕颜色选择工具，在浏览器外也能选择的Chrome浏览器插件。A screen color selection tool that can be selected outside the browser.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lfbok/Color-Picker.git"
+  },
+  "keywords": [
+    "Color",
+    "Color Picker",
+    "吸色器",
+    "颜色选择",
+    "浏览器颜色选择器",
+    "js",
+    "Chrome",
+    "Extensions",
+    "Chrome extensions",
+    "EyeDropper"
+  ],
+  "author": "lf <lssssi@163.com> (https://github.com/lfbok)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lfbok/Color-Picker/issues"
+  },
+  "homepage": "https://github.com/lfbok/Color-Picker#readme"
+}
