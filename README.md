@@ -1,6 +1,6 @@
 # 吸色工具（Color-Picker）
 
-![image](https://github.com/lfbok/Color-Picker/blob/main/images/icon.png)
+![image](https://github.com/lfbok/Color-Picker/blob/master/images/icon.png)
 
 一个屏幕颜色选择工具，在浏览器外也能选择的Chrome浏览器插件。A screen color selection tool that can be selected outside the browser.
 
@@ -14,13 +14,13 @@
   **或支持`EyeDropper` API的其他浏览器**
 
 # 使用
-  ![image](https://github.com/lfbok/Color-Picker/blob/main/images/1.png)
+  ![image](https://github.com/lfbok/Color-Picker/blob/master/images/1.png)
 
-  ![image](https://github.com/lfbok/Color-Picker/blob/main/images/2.png)
+  ![image](https://github.com/lfbok/Color-Picker/blob/master/images/2.png)
   
-  ![image](https://github.com/lfbok/Color-Picker/blob/main/images/3.png)
+  ![image](https://github.com/lfbok/Color-Picker/blob/master/images/3.png)
 
-  ![image](https://github.com/lfbok/Color-Picker/blob/main/images/4.png)
+  ![image](https://github.com/lfbok/Color-Picker/blob/master/images/4.png)
   
 
 
